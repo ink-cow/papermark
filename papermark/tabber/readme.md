@@ -1,10 +1,3 @@
----
-title:      Tabber
-author:     Ink Cow
-website:    https://www.github.com/ink-cow
-version:    0.1
----
-
 # Tabber
 
 Summon a workspace overview to quickly navigate tabs!
